@@ -1,5 +1,7 @@
 # 👩‍💻 Maria Eduarda de Andrade | Estudante de Desenvolvimento de Sistemas
 
+![Flores de cerejeira](https://i.pinimg.com/originals/9d/10/cf/9d10cf02-78af-4be0-9a06-a4b7b872c671.png)
+
 ## 📌 Sobre mim
 - Estudante de Desenvolvimento de Sistemas no **Sesi SENAI Valinhos**  
 - Entusiasmada por programação, inovação e crescimento contínuo  

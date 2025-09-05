@@ -1,28 +1,33 @@
-# 👩‍💻 Maria Eduarda de Andrade | Estudante de Desenvolvimento de Sistemas
+<img align="right" src="https://static.wikia.nocookie.net/sonic/images/7/70/Shadow_Render.png" width="180"/>
 
-## 📌 Sobre mim
-- Estudante de Desenvolvimento de Sistemas no **Sesi SENAI Valinhos**  
-- Entusiasmada por programação, inovação e crescimento contínuo  
-- Exploro e compartilho aprendizado por meio de projetos no GitHub  
+# 👤 Maria Eduarda de Andrade
 
----
-
-## 🛠️ Linguagens e Ferramentas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
+> 💡 Apaixonada por tecnologia, inovação e desafios  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeandrade&layout=compact&theme=radical)
+## 🛠️ Tech Stack & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeandrade&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)
 
 ---
 
-✨ *Construindo conhecimento, linha por linha de código.* ✨
+> ✨ *“Construindo conhecimento, linha por linha de código.”*  

@@ -1,4 +1,3 @@
-<img align="right" src="https://static.wikia.nocookie.net/sonic/images/7/70/Shadow_Render.png" width="180"/>
 
 # 👤 Maria Eduarda de Andrade
 

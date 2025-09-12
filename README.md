@@ -1,4 +1,3 @@
-
 # 👤 Maria Eduarda de Andrade
 
 > 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
@@ -6,7 +5,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -14,7 +13,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -23,7 +22,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)
 

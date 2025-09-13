@@ -1,31 +1,58 @@
-# 👤 Maria Eduarda de Andrade
+# 🌌 Maria Eduarda de Andrade  
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0d/b6/41/0db641e8f1db90b5d257a7b82d49f683.gif" width="600"/>
+</div>
 
 > 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
 > 💡 Apaixonada por tecnologia, inovação e desafios  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-
----
-
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias & Ferramentas  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeandrade&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 📈 Estatísticas do GitHub  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeandrade&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>  
 
 ---
 
-> ✨ *“Construindo conhecimento, linha por linha de código.”*  
+## ⚡ Conecte-se comigo  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)  
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+## ✨ Sobre mim  
+
+- 🔭 Sempre explorando novas tecnologias  
+- 📚 Estudando Desenvolvimento de Sistemas no **Sesi SENAI Valinhos**  
+- 🚀 Sonho em transformar ideias em soluções reais  
+
+---
+
+<div align="center">
+  
+✨ *“Construindo conhecimento, linha por linha de código.”* ✨  
+
+</div>

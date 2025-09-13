@@ -1,6 +1,8 @@
 # 🌌 Maria Eduarda de Andrade  
 
-
+<div align="center">
+  <img src="https://github.com/mariaeandrade/mariaeandrade/blob/main/assets/jellyfish.gif" width="600"/>
+</div>
 
 > 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
 > 💡 Apaixonada por tecnologia, inovação e desafios  

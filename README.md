@@ -1,7 +1,7 @@
 # 🌌 Maria Eduarda de Andrade  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0d/b6/41/0db641e8f1db90b5d257a7b82d49f683.gif" width="600"/>
+  <img src="https://pin.it/3MoLCtByU0db641e8f1db90b5d257a7b82d49f683.gif" width="600"/>
 </div>
 
 > 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  

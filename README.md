@@ -1,11 +1,19 @@
-# 🌌 Maria Eduarda de Andrade  
 
-> 💻 Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
-> 💡 Apaixonada por tecnologia, inovação e desafios  
+<div align="center">
+  
+![Coding vibes](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJmdGM1cmgycW42cmxieGI0NjdkdnNuZjVxcmY1czAybmxjOXZvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jCmVGeJu7tN4Y/giphy.gif)
+
+
+</div>
+
+#  Maria Eduarda de Andrade  
+
+>  Estudante de Desenvolvimento de Sistemas | Sesi SENAI Valinhos  
+>  Apaixonada por tecnologia, inovação e desafios  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+##  Tech Stack  
 
 <div align="center">
   
@@ -19,16 +27,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub  
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaeandrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeandrade&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>  
-
----
-
-## ⚡ Conecte-se comigo  
+## 💬 Let's Connect  
 
 <div align="center">
 
@@ -37,17 +36,3 @@
 </div>
 
 ---
-
-## ✨ Sobre mim  
-
-- 🔭 Sempre explorando novas tecnologias  
-- 📚 Estudando Desenvolvimento de Sistemas no **Sesi SENAI Valinhos**  
-- 🚀 Sonho em transformar ideias em soluções reais  
-
----
-
-<div align="center">
-  
-✨ *“Construindo conhecimento, linha por linha de código.”* ✨  
-
-</div>

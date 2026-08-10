@@ -47,20 +47,4 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-> *Substitua os links abaixo pelos repositórios dos seus melhores projetos:*
-
-- 📂 **[Nome do Projeto 1](link-do-repositorio):** Breve descrição do projeto e linguagens utilizadas.
-- 📂 **[Nome do Projeto 2](link-do-repositorio):** Breve descrição do projeto e linguagens utilizadas.
-
----
-
-## 💬 Vamos nos conectar!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
 </div>

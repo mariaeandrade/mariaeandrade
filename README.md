@@ -99,7 +99,6 @@ Estou sempre aberta a conhecer pessoas, trocar conhecimentos e participar de nov
 
 🎄 "The best way to predict the future is to create it." ✨
 
-Feito com ❤️, café ☕ e um pouquinho de magia natalina 🎅
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:165B33,100:0B3D2E&height=120&section=footer" width="100%" />
 

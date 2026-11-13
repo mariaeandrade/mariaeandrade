@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:165B33,100:8B0000&height=180&section=header&text=Happy%20Holidays!&fontSize=45&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<a href="https://tenor.com/search/christmas-gifs">
+<a href="[https://tenor.com/search/christmas-gifs](https://media1.tenor.com/m/nfpyoBQIGmMAAAAC/snoopy-peanuts.gif)">
 <img src="https://media.giphy.com/media/3o6fJ1UDfEBc9BcPss/giphy.gif" width="280" alt="Christmas animation" />
 </a>
 

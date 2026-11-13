@@ -5,11 +5,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:165B33,100:8B0000&height=180&section=header&text=Happy%20Holidays!&fontSize=45&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" />
 
-
 <a href="https://tenor.com/pt-BR/view/snoopy-peanuts-christmas-holiday-dance-gif-11383537039988759139">
-  <img src="https://media.tenor.com/11383537039988759139/tenor.gif" width="280" alt="Snoopy Christmas Dance 🎄" />
+<img src="https://media.tenor.com/11383537039988759139/tenor.gif" width="300" alt="Snoopy Christmas Dance 🎄" />
 </a>
-
 
 🎅 Transformando ideias em código, um commit de cada vez!
 
@@ -93,7 +91,7 @@ Estou sempre aberta a conhecer pessoas, trocar conhecimentos e participar de nov
 <img src="https://img.shields.io/badge/LinkedIn-165B33?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:seuemail@example.com">
+<a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 

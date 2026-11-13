@@ -7,7 +7,7 @@
 
 
 <a href="https://tenor.com/pt-BR/view/snoopy-peanuts-christmas-holiday-dance-gif-11383537039988759139">
-  <img src="https://media.tenor.com/COLOQUE-O-ID-DO-GIF/tenor.gif" width="280" alt="Snoopy Christmas Dance 🎄" />
+  <img src="https://media.tenor.com/11383537039988759139/tenor.gif" width="280" alt="Snoopy Christmas Dance 🎄" />
 </a>
 
 

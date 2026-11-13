@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:165B33,100:8B0000&height=180&section=header&text=Happy%20Holidays!&fontSize=45&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<a href="[https://tenor.com/search/christmas-gifs](https://media1.tenor.com/m/nfpyoBQIGmMAAAAC/snoopy-peanuts.gif)">
+<a href="https://tenor.com/pt-BR/view/snoopy-peanuts-christmas-holiday-dance-gif-11383537039988759139s">
 <img src="https://media.giphy.com/media/3o6fJ1UDfEBc9BcPss/giphy.gif" width="280" alt="Christmas animation" />
 </a>
 
@@ -75,4 +75,34 @@ Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento Fron
 
 </div>
 
-Confira meus re
+Confira meus repositórios e acompanhe minha evolução através dos projetos que desenvolvo durante minha jornada na programação!
+
+💌 Vamos nos conectar?
+
+Estou sempre aberta a conhecer pessoas, trocar conhecimentos e participar de novos projetos!
+
+<div align="center">
+
+<a href="https://github.com/mariaeandrade">
+<img src="https://img.shields.io/badge/GitHub-0B3D2E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/maria-eduarda-andrade-6878a2349/">
+<img src="https://img.shields.io/badge/LinkedIn-165B33?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:seuemail@example.com">
+<img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+🎄 "The best way to predict the future is to create it." ✨
+
+Feito com ❤️, café ☕ e um pouquinho de magia natalina 🎅
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:165B33,100:0B3D2E&height=120&section=footer" width="100%" />
+
+</div>
